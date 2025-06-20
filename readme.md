@@ -13,7 +13,7 @@
 ```typescript
 const ridd = {
   role: "Tech Innovator & Community Architect",
-  expertise: ["CTO-Level Strategy", "Game Development", "Cybersecurity", "AI Systems"],
+  expertise: ["data analyst", "Game Development", "Cybersecurity", "AI Systems"],
   mission: "Democratizing tech education through collaborative learning",
   community: "Project-Link - Connecting talent across all experience levels",
   philosophy: "Growth through collaboration, not competition",
