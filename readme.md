@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Tech+Innovator+%7C+CTO-Level+Mentor;Community+Builder+%7C+GameDev+Enthusiast;Cybersecurity+Advocate+%7C+AI+Collaborator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Tech+Innovator+;Community+Builder+%7C+GameDev+Enthusiast;Cybersecurity+Advocate+%7C+AI+Collaborator)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,7 +43,7 @@ const ridd = {
 🌐 Open Source: Community-driven learning resources
 ```
 
-**[📋 Join Our Community](https://github.com/LEX-DEV141/project-link) | [💬 Discord Server](https://discord.gg/project-link) | [📚 Learning Resources](https://github.com/LEX-DEV141/Project-colab_Exercise)**
+**[📋 Join Our Community](https://github.com/LEX-DEV141/project-link) | [💬 Discord Server](https://discord.gg/project-link) | [📚 Learning Resources](https://github.com/LEX-DEV141/Project.Link_Guide)**
 
 ---
 
@@ -124,15 +124,6 @@ Implementing cybersecurity best practices across all community projects and educ
 
 ---
 
-## 📊 Community Contributions
-
-```
-🎓 Mentored: 50+ developers across multiple tracks
-🚀 Projects Led: 15+ collaborative development initiatives  
-📝 Content Created: Comprehensive curriculum for 5 specialized tracks
-🤝 Partnerships: Growing network of industry mentors and companies
-🌟 Success Rate: 85% of participants advance to next career level
-```
 
 ---
 
