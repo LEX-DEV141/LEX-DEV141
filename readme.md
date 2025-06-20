@@ -1,28 +1,3 @@
-# 👋 Hi, I'm Ridd - LEX.DEV141
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Tech+Innovator+;Community+Builder+%7C+GameDev+Enthusiast;Cybersecurity+Advocate+%7C+AI+Collaborator)](https://git.io/typing-svg)
-
-</div>
-
-## 🚀 About Me
-
-**Founder & Community Lead** at [**Project-Link Community**](https://github.com/LEX-DEV141/project-link) - Building Indonesia's premier collaborative learning ecosystem for developers of all backgrounds.
-
-```typescript
-const ridd = {
-  role: "Tech Innovator & Community Architect",
-  expertise: ["data analyst", "Game Development", "Cybersecurity", "AI Systems"],
-  mission: "Democratizing tech education through collaborative learning",
-  community: "Project-Link - Connecting talent across all experience levels",
-  philosophy: "Growth through collaboration, not competition",
-  currentFocus: ["AI Agent Development", "Educational Platform Design", "Mentorship Systems"]
-}
-```
-
----
-
 ## 🏛️ Project-Link Community
 
 > **Connecting Talent. Building Futures. Scaling Together.**
