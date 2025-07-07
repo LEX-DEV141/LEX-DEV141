@@ -18,7 +18,7 @@
 🌐 Open Source: Community-driven learning resources
 ```
 
-**[📋 Join Our Community](https://github.com/LEX-DEV141/project-link) | [💬 Discord Server](https://discord.gg/project-link) | [📚 Learning Resources](https://github.com/LEX-DEV141/Project.Link_Guide)**
+**[📋 Join Our Community](https://github.com/LEX-DEV141/PROJECT-LINK) | [💬 Discord Server](https://discord.gg/project-link) | [📚 Learning Resources](https://github.com/LEX-DEV141/PROJECT_LINK_EXERCISE)**
 
 ---
 
